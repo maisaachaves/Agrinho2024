@@ -1,11 +1,12 @@
    body{
 
-     background-color: blueviolet;
+     background-color: rgb(190, 154, 223);
 
    }
 
     header{
      display: flex;
-     background-color: rgb(199, 251, 255);
+     background-color: rgb(134, 75, 168);
      justify-content: space-between;
+     padding: 20px;
     }
