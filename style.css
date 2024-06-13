@@ -1,12 +1,12 @@
    body{
 
-     background-color: rgb(190, 154, 223);
+     background-color: rgb(150, 95, 202);
 
    }
 
     header{
      display: flex;
-     background-color: rgb(134, 75, 168);
+     background-color: rgb(176, 116, 211);
      justify-content: space-between;
      padding: 20px;
     }
