@@ -1,11 +1,11 @@
    body{
 
-        background-color: blueviolet;
+     background-color: blueviolet;
 
    }
 
     header{
      display: flex;
-     background-color: black;
-
+     background-color: rgb(199, 251, 255);
+     justify-content: space-between;
     }
